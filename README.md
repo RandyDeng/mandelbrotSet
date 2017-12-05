@@ -1,2 +1,2 @@
-# mandelbrotSet
-C++ code creating the Mandelbrot Set using pthreads and OpengL
+# Mandelbrot Set
+The Mandelbrot Set is a set of complex numbers for which a particular function does not diverge when iterated from zero to infinity. Much of its popularity can be attributed to the stunning images and fractal patterns it produces. Using C++, OpenGL, and pthreads, I spawned 16 threads to parallelize pixel calculation and displayed the result with OpenGL. The application allowed for easy configuration of colors and included a zoom function to emphasize the recursive properties of the Mandelbrot Set. I enjoyed this project because it challenged me to consider how to structure the code in a way that is both clean and efficient.
